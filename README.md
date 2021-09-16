@@ -1,1 +1,1 @@
-[Start here](http://nbviewer.jupyter.org/github/Paul-Cavailles/power_electronics_sizing/blog/00_Introduction.ipynb)
+[Start here](https://nbviewer.jupyter.org/github/Paul-Cavailles/power_electronics_sizing/blob/main/00_Introduction.ipynb)
